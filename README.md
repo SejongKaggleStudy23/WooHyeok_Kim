@@ -12,10 +12,10 @@
 ## 순서도
 | Week | Cource Contents | Course | Note | Lab |
 |:---:|:---:|:---:|:---:|:---:|
-| 1 | 인공지능 개요 | 인공지능 | [md]() | 
-| 2 | 데이터전처리 | 기계학습 |  | [ipynb]() |
-| 3 | kNN | 기계학습 |  | [ipynb]() |
-| 4 | 로지스틱회귀분류 | 기계학습 | [pdf]() | [ipynb]() | 
+| 1 | 인공지능 개요 | 인공지능 | [md](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Note/Week1_A.I_Overview.md) | 
+| 2 | 데이터전처리 | 기계학습 |  | [ipynb](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Lab/Week2_Data_Processing.ipynb) |
+| 3 | kNN | 기계학습 |  | [ipynb](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Lab/Week3_KNN.ipynb) |
+| 4 | 로지스틱회귀분류 | 기계학습 | [pdf](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Note/Week4_Logistic_Regression.pdf) | [ipynb](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Lab/Week4_Logistic_Regression.ipynb) | 
 | 5 | 판별분석 | 기계학습 |
 | 6 | 의사결정나무 | 기계학습 |
 | 7 | SVM | 기계학습 |
