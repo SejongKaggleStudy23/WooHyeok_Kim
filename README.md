@@ -6,7 +6,7 @@
 
 ## 공부 방법
 - Lecture: Youtube 강의
-- Note: [최유경 교수님 학습자료]()
+- Note: [최유경 교수님 학습자료](https://github.com/sejongresearch)
 - Lab: Colaboratory
 
 ## 순서도
