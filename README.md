@@ -19,8 +19,7 @@
 | 5 | 판별분석 | 기계학습 | [pdf](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Note/Week5_LDA_QDA.pdf) | [ipynb](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Lab/Week5_LDA_QDA.ipynb)
 | 6 | 의사결정나무 | 기계학습 | [pdf](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Note/Week6_DecisionTree.pdf) | [ipynb](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Lab/Week6_DecisionTree.ipynb) |
 | 7 | [2-6주차]복습(중간고사) | 기계학습 |  | [ipynb](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Lab/CheetSheet_Classification_2020_ML.ipynb) [ipynb](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Lab/CheetSheet_Regression.ipynb) |
-| 8 | SVM | 기계학습 | [pdf](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Note/Week7_SVM_note.pdf) [pdf](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Note/Week7_SVM_lab.pdf
-) | [ipynb](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Lab/Week7_SVM.ipynb) |
+| 8 | SVM | 기계학습 | [pdf](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Note/Week7_SVM_note.pdf) [pdf](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Note/Week7_SVM_lab.pdf) | [ipynb](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Lab/Week7_SVM.ipynb) |
 | 9 | 군집화 | 기계학습 |
 | 10 | 차원축소 | 기계학습 |
 | 11 | 교차검증 | 기계학습 |
