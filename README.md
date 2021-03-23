@@ -1,9 +1,5 @@
 # ML/AI_Study
 
-## Youtube 강의
-- [인공지능](https://www.youtube.com/playlist?list=PL1xKqHsVFgvmIAJBy-cbB9zQcnMb6zsT2)
-- [기계학습](https://www.youtube.com/playlist?list=PL1xKqHsVFgvnQQY9L4n1MFyy-6eixTekU)
-
 ## 공부 방법
 - [최유경 교수님 수업자료](https://github.com/sejongresearch)
   - Lecture: Youtube - [ML](https://www.youtube.com/playlist?list=PL1xKqHsVFgvnQQY9L4n1MFyy-6eixTekU) [AI](https://www.youtube.com/playlist?list=PL1xKqHsVFgvmIAJBy-cbB9zQcnMb6zsT2)
