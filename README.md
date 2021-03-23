@@ -5,9 +5,10 @@
 - [기계학습](https://www.youtube.com/playlist?list=PL1xKqHsVFgvnQQY9L4n1MFyy-6eixTekU)
 
 ## 공부 방법
-- Lecture: Youtube 강의
-- Note: [최유경 교수님 학습자료](https://github.com/sejongresearch)
-- Lab: Colaboratory
+- [최유경 교수님 수업자료](https://github.com/sejongresearch)
+  - Lecture: Youtube, [ML]() [AI]()
+  - Note: [강의자료](https://github.com/sejongresearch)
+  - Lab: [실습자료](https://github.com/sejongresearch)
 
 ## 순서도
 | Week | Cource Contents | Course | Note | Lab |
@@ -19,7 +20,8 @@
 | 5 | 판별분석 | 기계학습 | [pdf](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Note/Week5_LDA_QDA.pdf) | [ipynb](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Lab/Week5_LDA_QDA.ipynb)
 | 6 | 의사결정나무 | 기계학습 | [pdf](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Note/Week6_DecisionTree.pdf) | [ipynb](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Lab/Week6_DecisionTree.ipynb) |
 | 7 | [2-6주차]복습(중간고사) | 기계학습 |  | [ipynb](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Lab/CheetSheet_Classification_2020_ML.ipynb) [ipynb](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Lab/CheetSheet_Regression.ipynb) |
-| 8 | SVM | 기계학습 | [pdf_이론]() [pdf_실습]() | [ipynb]() |
+| 8 | SVM | 기계학습 | [pdf](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Note/Week7_SVM_note.pdf) [pdf](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Note/Week7_SVM_lab.pdf
+) | [ipynb](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Lab/Week7_SVM.ipynb) |
 | 9 | 군집화 | 기계학습 |
 | 10 | 차원축소 | 기계학습 |
 | 11 | 교차검증 | 기계학습 |
