@@ -9,8 +9,8 @@
 | Week | Cource Contents | Course | Note | Lab |
 |:---:|:---:|:---:|:---:|:---:|
 | 1 | 인공지능 개요 | 인공지능 | [md](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Note/Week1_A.I_Overview.md) | 
-| 2 | 데이터전처리 | 기계학습 |  | [ipynb](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Lab/Week2_Data_Processing.ipynb) |
-| 3 | kNN | 기계학습 |  | [ipynb](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Lab/Week3_KNN.ipynb) |
+| 2 | 데이터전처리 | 기계학습 | [pdf](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Note/Week2_Data_Processing.pdf) | [ipynb](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Lab/Week2_Data_Processing.ipynb) |
+| 3 | KNN | 기계학습 | [pdf](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Note/Week3_KNN.pdf) | [ipynb](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Lab/Week3_KNN.ipynb) |
 | 4 | 로지스틱회귀분류 | 기계학습 | [pdf](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Note/Week4_Logistic_Regression.pdf) | [ipynb](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Lab/Week4_Logistic_Regression.ipynb) | 
 | 5 | 판별분석 | 기계학습 | [pdf](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Note/Week5_LDA_QDA.pdf) | [ipynb](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Lab/Week5_LDA_QDA.ipynb)
 | 6 | 의사결정나무 | 기계학습 | [pdf](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Note/Week6_DecisionTree.pdf) | [ipynb](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Lab/Week6_DecisionTree.ipynb) |
@@ -18,7 +18,7 @@
 | 8 | SVM | 기계학습 | [pdf](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Note/Week7_SVM_note.pdf) [pdf](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Note/Week7_SVM_lab.pdf) | [ipynb](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Lab/Week7_SVM.ipynb) |
 | 9 | 군집화 | 기계학습 | [pdf](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Note/Week8_Clustering.pdf) | [ipynb](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Lab/Week8_Clustering.ipynb) |
 | 10 | 차원축소 | 기계학습 | [pdf](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Note/Week9_Dimensional_Reduction.pdf) | [ipynb](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Lab/Week9_Dimensional_Reduction.ipynb) |
-| 11 | 교차검증 | 기계학습 | [pdf](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Note/Week10_Ensamble.pdf) | [ipynb](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Lab/Week10_Ensamble.ipynb) |
+| 11 | 교차검증&앙상블 | 기계학습 | [pdf](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Note/Week10_Ensamble.pdf) | [ipynb](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Lab/Week10_Ensamble.ipynb) |
 | 12 | 선형회귀 | 인공지능 |
 | 13 | 선형분류 | 인공지능 |
 | 14 | 뉴럴네트워크 | 인공지능 |
