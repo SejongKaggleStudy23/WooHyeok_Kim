@@ -18,7 +18,7 @@
 | 8 | SVM | 기계학습 | [pdf](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Note/Week7_SVM_note.pdf) [pdf](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Note/Week7_SVM_lab.pdf) | [ipynb](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Lab/Week7_SVM.ipynb) |
 | 9 | 군집화 | 기계학습 | [pdf](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Note/Week8_Clustering.pdf) | [ipynb](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Lab/Week8_Clustering.ipynb) |
 | 10 | 차원축소 | 기계학습 | [pdf](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Note/Week9_Dimensional_Reduction.pdf) | [ipynb](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Lab/Week9_Dimensional_Reduction.ipynb) |
-| 11 | 교차검증 | 기계학습 | [pdf]() | [ipynb]() |
+| 11 | 교차검증 | 기계학습 | [pdf](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Note/Week10_Ensamble.pdf) | [ipynb](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Lab/Week10_Ensamble.ipynb) |
 | 12 | 선형회귀 | 인공지능 |
 | 13 | 선형분류 | 인공지능 |
 | 14 | 뉴럴네트워크 | 인공지능 |
