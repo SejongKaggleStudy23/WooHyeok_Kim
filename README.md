@@ -19,7 +19,7 @@
 | 8 | 군집화 | 기계학습 | [pdf](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Note/Week8_Clustering.pdf) | [ipynb](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Lab/Week8_Clustering.ipynb) |
 | 9 | 차원축소 | 기계학습 | [pdf](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Note/Week9_Dimensional_Reduction.pdf) | [ipynb](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Lab/Week9_Dimensional_Reduction.ipynb) |
 | 10 | 교차검증&앙상블 | 기계학습 | [pdf](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Note/Week10_Ensamble.pdf) | [ipynb](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Lab/Week10_Ensamble.ipynb) |
-| 11 | 선형회귀 | 인공지능 |
+| 11 | 선형회귀 | 인공지능 | [pdf](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Note/Week11_Linear_Regression.pdf) | [ipynd](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Lab/Week11_Linear_Regression_1.ipynb) [ipynd](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Lab/Week11_Linear_Regression_2.ipynb) [ipynd](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Lab/Week11_Linear_Regression_3.ipynb) |
 | 12 | 선형분류 | 인공지능 |
 | 13 | 뉴럴네트워크 | 인공지능 |
 | 14 | CNN | 인공지능 |
