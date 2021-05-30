@@ -23,4 +23,4 @@
 | 12 | 선형분류 | 인공지능 | [pdf](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Note/Week12_Linear_Classification.pdf)] | [ipynb](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Lab/Week12_Linear_Classification_1.ipynb), [ipynb](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Lab/Week12_Linear_Classification_2.ipynb) |
 | 13 | 뉴럴네트워크 | 인공지능 |
 | 14 | CNN | 인공지능 |
-| - |  | 창의공동체 | [pdf](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Note/VGG16_Transfer_Learning.pdf) | [ipynb](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Lab/VGG16_Transfer_Learning.ipynb) | 
+| - | 네트워크 분석 | 창의공동체 | [pdf](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Note/VGG16_Transfer_Learning.pdf) | [ipynb](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Lab/VGG16_Transfer_Learning.ipynb) | 
