@@ -20,6 +20,7 @@
 | 9 | 차원축소 | 기계학습 | [pdf](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Note/Week9_Dim_reduction.pdf) | [ipynb](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Lab/Week9_Dimensional_Reduction.ipynb) |
 | 10 | 교차검증&앙상블 | 기계학습 | [pdf](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Note/Week10_CrossVal_Ensamble.pdf) | [ipynb](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Lab/Week10_Ensamble.ipynb) |
 | 11 | 선형회귀 | 인공지능 | [pdf](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Note/Week11_Linear_Regression.pdf) | [ipynb](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Lab/Week11_Linear_Regression_1.ipynb), [ipynb](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Lab/Week11_Linear_Regression_2.ipynb), [ipynb](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Lab/Week11_Linear_Regression_3.ipynb) |
-| 12 | 선형분류 | 인공지능 |
+| 12 | 선형분류 | 인공지능 | [pdf(https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Note/Week12_Linear_Classification.pdf)] | [ipynb](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Lab/Week12_Linear_Classification_1.ipynb), [ipynb](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Lab/Week12_Linear_Classification_2.ipynb) |
 | 13 | 뉴럴네트워크 | 인공지능 |
 | 14 | CNN | 인공지능 |
+| - | 네트워크 분석 | 창의공동체 | [pdf](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Note/VGG16_Transfer_Learning.pdf) | [ipynb](https://github.com/Sejong-Kaggle-Study-3rd/WooHyeok_Kim/blob/main/Lab/VGG16_Transfer_Learning.ipynb) | 
