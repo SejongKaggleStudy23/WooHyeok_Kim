@@ -1,7 +1,7 @@
 # ML/AI_Study
 
 ## 공부 방법
-- [최유경 교수님 ](https://github.com/sejongresearch)
+- [최유경 교수님 강의자료](https://github.com/sejongresearch)
   - Lecture: Youtube - [ML](https://www.youtube.com/playlist?list=PL1xKqHsVFgvnQQY9L4n1MFyy-6eixTekU) [AI](https://www.youtube.com/playlist?list=PL1xKqHsVFgvmIAJBy-cbB9zQcnMb6zsT2)
   - Note & Lab: [ML](https://github.com/sejongresearch/2020.MachineLearning) [AI](https://github.com/sejongresearch/2020.Spring.AI)
 
